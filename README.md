@@ -1,4 +1,4 @@
-# File Organiser
+# File Organiser (FAST AND ROBUST)
 
 File Organiser is a simple and fast Python script that cleans up messy folders by sorting files into clear, meaningful directories based on their file type.  
 It is designed to be practical, predictable, and safe — no AI, no internet, and no background services.
